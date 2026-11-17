@@ -15,15 +15,6 @@ AI 기반 여행 일정 플래너 · 팀 프로젝트
 
 [데모 체험하기](https://tripkey-frontend.vercel.app)
 
-<!--
-
-### [SEIZMO Frontend](https://github.com/minsoo4/seizmo)
-AI 포토부스 프론트엔드 재구현 · 개인 프로젝트 / 진행 중
-
-- 졸업작품의 사용자 화면을 React·TypeScript로 직접 재구현
-- 화면 전환과 목 API 기반 비동기 요청 처리 학습
-
--->
 ## Skills
 
 - JavaScript, TypeScript
